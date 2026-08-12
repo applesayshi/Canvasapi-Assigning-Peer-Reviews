@@ -5,9 +5,9 @@ import random
 
 ## ------------ INITIALIZE CANVAS OBJECTS ----------- ##
 # Canvas API URL
-API_URL = "https://ubc.test.instructure.com"
+API_URL = ""
 # Canvas API key
-API_KEY = "11224~HkHHQmz4v2PCy6AXKauna42zfzFAEYwPWZxVCZzRE9YMQMPCWmwhKmv3rz7ewFXA"
+API_KEY = ""
 
 # Initialize a new Canvas object
 canvas = Canvas(API_URL, API_KEY)
